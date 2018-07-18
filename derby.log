@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Wed Jul 18 10:58:05 MDT 2018:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-0164-ae53-cd0e-000005288ab0 
+Wed Jul 18 15:31:14 MDT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-0164-af4d-e33a-00000546acb8 
 on database directory C:\Users\Lora Racca\Desktop\bootcamp\projects\deep-dive-attendance-services\attendance_db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
 Loaded from file:/C:/Users/Lora%20Racca/.m2/repository/org/apache/derby/derby/10.14.1.0/derby-10.14.1.0.jar
 java.vendor=Oracle Corporation
